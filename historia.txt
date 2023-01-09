@@ -1,2 +1,4 @@
 Este es un archivo de prueba para el curso de GitHub
-Diego Bravo tiene 31
+Diego Bravo tiene 30 y tiene una estatura de 1.72 metros
+
+Esta es una nueva línea
