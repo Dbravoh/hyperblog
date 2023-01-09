@@ -1,1 +1,2 @@
 Este es un archivo de prueba para el curso de GitHub
+Diego Bravo tiene 31
